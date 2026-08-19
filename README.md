@@ -1,0 +1,2 @@
+# AI-ML-Internship-Task-2-Maincraft-Technologies
+Task 2 completed during the artificial intelligence &amp; machine learning intership at maincraft technology. This project demonstrates feature Engineering, feature scalling, model optimization, and performance comparison using the California housing dataset. the intership provided valuable practical exposure to real-world mahine learning workflows.
